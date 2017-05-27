@@ -1,0 +1,86 @@
+body{
+	align-content: center;
+	height: 
+}
+
+#header{
+height: 10%;
+font-size: 48px;
+background-color: lightblue;
+border-radius: 90px;
+display: inline-block;
+}
+#container{
+	height: 900px;
+	width: 100%;
+	background-color: lightblue;
+}
+#submittext{
+	float: right;
+}
+#about{
+
+}
+#title{
+	background-color: black;
+	color:white;
+}
+#submittextbutton{
+	height: 45%;
+	background-color: white;
+	border: solid;
+	border-color: grey;
+	border-width: .06px;
+	width: 94%;
+}
+#screen{
+	height: 70%;
+	width: 100%;	
+	overflow-y: scroll;
+}
+
+#submit{
+	width: 100%;
+}
+#imgsubmit{
+	border-radius: 90px;
+}
+
+.message{
+	color:Yellow;
+	border:solid;
+	background-color: orange;
+	padding: 5px;
+	width: 50%;
+	float: right;
+
+}
+.messageimg{
+	height: 50px;
+	width: 50px;
+	border: none;
+	float: right;
+}
+.botimg{
+	height: 50px;
+	width: 50px;
+	border: none;
+	float: left;
+}
+.headerimg{
+	height: 50px;
+	width: 50px;
+	border: none;
+}
+.holder{
+	width: 100%;
+}
+.humanmsg{
+	background-color: orange;
+	padding: 5px;
+}
+.botmsg{
+	background-color: green;
+	color:blue;
+	padding: 5px;
+}
